@@ -43,9 +43,9 @@ api:
 logger:
 
 # Video memory
-psram:
-  mode: octal
-  speed: 120MHz
+#psram:
+#  mode: octal
+#  speed: 120MHz
 
 # IO Extender
 ch422g:
